@@ -1,0 +1,4 @@
+cron:
+  - description: "publish message every 1 minutes to pubsub"
+    url: /publish
+    schedule: every 1 minutes

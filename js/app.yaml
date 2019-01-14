@@ -1,0 +1,5 @@
+runtime: nodejs10
+instance_class: F2
+env_variables:
+  TOPIC: ""
+  PROJECT: ""

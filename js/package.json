@@ -1,0 +1,16 @@
+{
+  "name": "appengine-pubsub",
+  "version": "1.0.0",
+  "description": "Node.js Google Cloud PubSub client for Google App Engine",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.22.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
